@@ -36,10 +36,10 @@ import base_bw
 
 setup(
     name = "base_bw",
-    version = base_bw.__version__,
+    version = '0.1',
     url = 'https://github.com/polyploid/pynq_bw',
     license = 'All rights reserved.',
-    author = "Benedikt Janssen, Yun Qu, et al.",
+    author = "Yuchen Wang, Benedikt Janssen, Yun Qu, et al.",
     author_email = "wyc01200@sina.com",
     packages = ['base_bw'],
     package_data = {
